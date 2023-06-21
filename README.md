@@ -8,7 +8,7 @@ When I get to a usable version I'll put the final project on a 1.0.0 branch
 ### What do I need to finish?
 * Technologies page
 * About page
-* Just in pt-br for now
+* Just in ENG version
 * 75% responsive
 * <b><s>Home page</s></b>
 * <b><s>25% responsive</s></b>
