@@ -1,2 +1,0 @@
-# PortfolioSite
-My portfolio website
