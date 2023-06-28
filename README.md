@@ -9,6 +9,5 @@ When I get to a usable version I'll put the final project on a 1.0.0 branch
 * Technologies page
 * About page
 * Just in ENG version
-* 75% responsive
-* <b><s>Home page</s></b>
-* <b><s>25% responsive</s></b>
+* 100% responsive
+* <b>Home page</b>
