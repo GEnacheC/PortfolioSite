@@ -10,4 +10,4 @@ When I get to a usable version I'll put the final project on a 1.0.0 branch
 * About page
 * Just in ENG version
 * 100% responsive
-* <b>Home page</b>
+* Home page
